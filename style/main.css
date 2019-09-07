@@ -1,0 +1,13 @@
+.bulb {
+  background: #272822;
+  overflow: hidden;
+  height : 300px;
+  width: 300px;
+  color: white;
+  border-radius: 5px;
+}
+.off {
+  color: #272822;
+  background: #D4B045;
+  box-shadow: 5px 5px grey;
+}
